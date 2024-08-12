@@ -29,4 +29,8 @@ Design Preparation
   run_synthesis
   ![1_4](https://github.com/user-attachments/assets/6e84b304-eacd-4a02-b014-03b4f9d3e247)
 
+  Flop ratio = no of ff / no of cells
+             = 1613/14876 = 0.108 = 10.8%
+
+# DAY2
   
