@@ -14,4 +14,19 @@ Introducation to QFN-48 and also Introduction to Openlane and familiarization wi
   Physical Verification(DRC and LVS)
 
 Design Preparation
-  ![code] deefef 
+  Running commands:
+  docker
+  ![openlane1](https://github.com/user-attachments/assets/9a4b4f7e-d5a7-4282-9466-ebd4519bdecb)
+
+  ./flow.tcl -interactive
+  ![1_2](https://github.com/user-attachments/assets/6fbcc601-b427-4409-b03d-4e03d844db2e)
+
+  
+  package require openlane 0.9
+  prep -design picorv32a
+  ![1_3](https://github.com/user-attachments/assets/811db84b-12dd-45f4-9765-efee54ffcefd)
+
+  run_synthesis
+  ![1_4](https://github.com/user-attachments/assets/6e84b304-eacd-4a02-b014-03b4f9d3e247)
+
+  
