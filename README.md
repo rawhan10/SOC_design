@@ -12,3 +12,6 @@ Introducation to QFN-48 and also Introduction to Openlane and familiarization wi
   DFT(Design for Test)
   Static Timing analysis(STA)violations is there
   Physical Verification(DRC and LVS)
+
+Design Preparation
+  ![code] deefef 
