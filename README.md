@@ -41,6 +41,7 @@ Design Preparation
   ![2_3](https://github.com/user-attachments/assets/70ff5afd-727d-411d-8d02-400bffe22099)
   ![2_4](https://github.com/user-attachments/assets/1217ab05-8748-4e94-9433-aaffcc2d48e8)
   ![2_5](https://github.com/user-attachments/assets/22969c18-aded-43be-b58e-b12553488787)
+  After Placement
   ![2_6](https://github.com/user-attachments/assets/407f4461-a6e4-4c91-ab72-4f0299deccea)
 
 
