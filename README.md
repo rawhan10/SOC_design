@@ -45,6 +45,87 @@ Design Preparation
   ![2_6](https://github.com/user-attachments/assets/407f4461-a6e4-4c91-ab72-4f0299deccea)
 
 # DAY3
+  Design library cells using magic layout and ngspice characterization 
+![3_1](https://github.com/user-attachments/assets/b3d8e93e-2999-4502-bd69-ac4ac122566c)
+
+![3_2](https://github.com/user-attachments/assets/d72fb2e8-d1a5-41bc-82da-8f4214441873)
+
+![3_3](https://github.com/user-attachments/assets/dda75e8d-e52c-4c81-b1e6-88c63e2df4a4)
+
+![3_4](https://github.com/user-attachments/assets/0207ca02-ce4d-4d27-8ead-3c276d24186d)
+
+
+![3_5](https://github.com/user-attachments/assets/817b6068-c69f-41ee-8daa-3040ae05adeb)
+
+![3_6](https://github.com/user-attachments/assets/17abef5e-3800-49d8-9469-560574e135b0)
+
+![3_7](https://github.com/user-attachments/assets/01020896-6e62-4d56-9bbf-4e6c01ca12e4)
+
+![3_8](https://github.com/user-attachments/assets/43c504c0-1e4d-44e7-ad24-c74e0535fe82)
+
+
+![3_9](https://github.com/user-attachments/assets/ac27c09a-da81-4aaa-907c-28dbdd326a46)
+
+
+![3_10](https://github.com/user-attachments/assets/4ebb3b2b-0da9-4a3d-9712-a9b5617575d0)
+
+
+
+![3_11](https://github.com/user-attachments/assets/195bce1b-9861-46a4-bb0d-47503e8199d5)
+
+# DAY 4
+
+Pre-Layout timing analysis and Clock Tree synthesis
+
+![4_1](https://github.com/user-attachments/assets/31d049b7-231f-4de5-92db-c8fd13c38288)
+
+![4_2](https://github.com/user-attachments/assets/a1c3a97b-8456-4113-bf71-68eb301f764f)
+
+![4_3](https://github.com/user-attachments/assets/205da6f5-4248-4bdb-bd38-1effb2ae8669)
+
+![4_4](https://github.com/user-attachments/assets/cba09c11-4b81-4e6a-b42d-64320fa4a593)
+
+
+
+![4_5](https://github.com/user-attachments/assets/9aa555a6-a733-4fd8-82c1-afe297b35abf)
+
+
+![4_6](https://github.com/user-attachments/assets/19260eb9-1b6f-4509-a525-1b9b13384171)
+
+![3_12](https://github.com/user-attachments/assets/31d92868-7767-4ab6-bc8d-8956c7b46344)
+
+![4_7](https://github.com/user-attachments/assets/5b2038f4-52dc-4e5b-b742-191fd2ee282c)
+
+![WhatsApp Image 2024-08-20 at 12 32 03 AM](https://github.com/user-attachments/assets/29d7b994-df8a-446d-ac86-9701ee039056)
+
+![WhatsApp Image 2024-08-20 at 12 34 10 AM](https://github.com/user-attachments/assets/9811446b-6308-4903-aa52-5ae3b3d41e21)
+
+![4_8](https://github.com/user-attachments/assets/fdce1bc2-fdf9-4cf4-a58a-dc88d4c72503)
+
+
+![4_9](https://github.com/user-attachments/assets/5757207d-ebfc-4958-b61d-30ccaaafa251)
+
+![1](https://github.com/user-attachments/assets/f7d7a602-5a17-48f5-ba31-6675b4c2942f)
+
+![2](https://github.com/user-attachments/assets/7edb9abe-bf9a-4b1a-be20-4fc98dbd7c6d)
+
+# DAY 5
+TritonRoute
+
+![3](https://github.com/user-attachments/assets/7ddc375c-3696-46ed-a472-d17dc9e0a832)
+
+![4](https://github.com/user-attachments/assets/677b3fbb-3ee1-41b1-a094-166fdb20bd43)
+
+![5](https://github.com/user-attachments/assets/04467fb3-e63d-4d84-a975-2050615ec6a3)
+
+![6](https://github.com/user-attachments/assets/89ee799c-5437-4f5c-8e4f-4629e937ef22)
+
+![7](https://github.com/user-attachments/assets/b9f2245e-76a2-4452-819f-27534c3ae351)
+
+![8](https://github.com/user-attachments/assets/7b3892d0-bc9c-4742-b75c-50cd3012bc9f)
+
+
+
 
 
 
