@@ -67,11 +67,20 @@ Design Preparation
 ![3_9](https://github.com/user-attachments/assets/ac27c09a-da81-4aaa-907c-28dbdd326a46)
 
 
+![10 1](https://github.com/user-attachments/assets/4f4b7b7e-a094-43b9-a72c-08fbd47b6f4e)
+
+![10 3](https://github.com/user-attachments/assets/b4a6a74d-e167-4e77-997d-025f9553814c)
+![3_11](https://github.com/user-attachments/assets/195bce1b-9861-46a4-bb0d-47503e8199d5)
+![10 4](https://github.com/user-attachments/assets/86f7fdd6-056c-4573-a850-2ea8469f749d)
+![10 5](https://github.com/user-attachments/assets/d28256a1-94d5-4080-81cd-0e21c5b24a92)
+![10 6](https://github.com/user-attachments/assets/eb1eb122-73fa-4ae6-9581-5d5d0f60e83e)
+![10 7](https://github.com/user-attachments/assets/f86ae377-33e7-41df-a184-e90703c89ef5)
+
 ![3_10](https://github.com/user-attachments/assets/4ebb3b2b-0da9-4a3d-9712-a9b5617575d0)
 
 
 
-![3_11](https://github.com/user-attachments/assets/195bce1b-9861-46a4-bb0d-47503e8199d5)
+
 
 # DAY 4
 
